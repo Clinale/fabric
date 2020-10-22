@@ -5,12 +5,18 @@ SPDX-License-Identifier: Apache-2.0
 */
 
 package main
-
+/*
 import (
 	"fmt"
 
 	"github.com/hyperledger/fabric/core/chaincode/shim"
 	"github.com/hyperledger/fabric/examples/chaincode/go/example02"
+)
+*/
+import (
+	"fmt"
+	"github.com/Clinale/hyperledger/fabric/tree/release-1.3/core/chaincode/shim"
+	"github.com/hyperledger/fabric/tree/release-1.3/examples/chaincode/go/example02"
 )
 
 func main() {
