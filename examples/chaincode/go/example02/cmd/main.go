@@ -15,8 +15,8 @@ import (
 */
 import (
 	"fmt"
-	"github.com/Clinale/hyperledger/fabric/tree/release-1.3/core/chaincode/shim"
-	"github.com/hyperledger/fabric/tree/release-1.3/examples/chaincode/go/example02"
+	"github.com/Clinale/fabric/tree/release-1.3/core/chaincode/shim"
+	"github.com/Clinale/fabric/tree/release-1.3/examples/chaincode/go/example02"
 )
 
 func main() {
